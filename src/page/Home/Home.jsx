@@ -27,6 +27,7 @@ const Home = () => {
         <form className="d-flex input-group w-auto">
           <input
             type="search"
+            name="busqueda"
             className="form-control"
             placeholder="Search movie..."
             aria-label="Search"
